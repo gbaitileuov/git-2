@@ -1,4 +1,4 @@
 print("Hello, World1")
 print("Other String")
-print("BUGFIX String1")
-print("BUGFIX String2")
+print("NEW-API String1")
+print("NEW-API String3")
